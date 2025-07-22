@@ -15,15 +15,15 @@ const About = () => (
           Hey there! I&apos;m
           {' '}
           <a
-            href="https://www.linkedin.com/in/jin-guo-a95196368"
+            href="https://www.linkedin.com/in/antonio-fernandez-364928372"
             target="_blank"
             className={style.link}
             rel="noreferrer"
           >
-            Jinyi Guo(Jin),
+            Antonio Fernandez,
           </a>
           {' '}
-          Senior Full-Stack Engineer & WordPress Developer with 10+ years of experience creating scalable SaaS, AI-enhanced platforms, and multilingual content systems. Expert in React, Node.js, Spring Boot, and headless WordPress with deep cloud-native experience across AWS. Proven success in building high-performance applications with modern DevOps, LLM integration (GPT-4, LangChain), and eCommerce architecture (WooCommerce, Stripe). Known for delivering reliable solutions at scale, mentoring teams, and driving innovation with impact.
+          Senior Full-Stack Engineer with 9+ years of experience building secure, scalable systems across FinTech and E-commerce industries. Skilled in developing end-to-end platforms using React, Node.js, NestJS, PHP, Java, and .NET Core. Proven record delivering high-volume transactional systems, fraud detection engines, credit onboarding flows, and e-commerce CMS tools. Strong background in Agile delivery, platform migration, and regulatory compliance (KYC, GDPR). Comfortable collaborating with cross-border product teams using modern DevOps and CI/CD tools.
         </motion.p>
         <motion.p variants={fadeIn('', '', 1, 1)} className={style.text}>
           You can explore my work my
@@ -58,7 +58,7 @@ const About = () => (
       </motion.h1>
       <div className={style.para}>
         <motion.p variants={fadeIn('', '', 0.5, 1)} className={style.text}>
-          Graduated with a Bachelor of Science in Electrical Engineering & Computer Science from
+          Graduated with a Bachelor of Science in computer Engineering from
           {' '}
           <a
             href="https://www.ntust.edu.tw/?Lang=en"
@@ -66,10 +66,10 @@ const About = () => (
             className={style.link}
             rel="noreferrer"
           >
-            National Taiwan University of Science and Technology
+            University of Salamanca
           </a>
           {' '}
-          (2011-2015), holding a strong GPA of 3.6.
+          (2012-2016), holding a strong GPA of 8.4.
         </motion.p>
         <motion.p variants={fadeIn('', '', 1.25, 1)} className={style.text}>
           Over the past 10 years, I’ve led and delivered enterprise-grade full stack solutions across diverse domains, combining deep technical expertise with proven engineering leadership.
